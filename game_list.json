@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Minecraft",
+        "appStoreID": 479516143,
+        "igdbID": 135400,
+        "uriScheme": "minecraft:"
+    },
+    {
+        "name": "StarterSeeds",
+        "appStoreID": 6757363455,
+        "uriScheme": "starterseeds:"
+    },
+    {
+        "name": "PlayStation App",
+        "appStoreID": 6757363455,
+        "uriScheme": "scepsapp:"
+    },
+    {
+        "name": "Razer Nexus",
+        "appStoreID": 1565916457,
+        "uriScheme": "nexus:"
+    },
+    {
+        "name": "Alto's Adventure",
+        "appStoreID": 950812012,
+        "igdbID": 18130,
+        "uriScheme": "altosadventure:"
+    },
+    {
+        "name": "Alto's Odyssey",
+        "appStoreID": 1182456409,
+        "igdbID": 26428,
+        "uriScheme": "altosodyssey:"
+    },
+    {
+        "name": "Monument Valley",
+        "appStoreID": 728293409,
+        "igdbID": 8900,
+        "uriScheme": "monument-valley:"
+    }
+]
