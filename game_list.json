@@ -1,41 +1,99 @@
 [
-    {
-        "name": "Minecraft",
-        "appStoreID": 479516143,
-        "igdbID": 135400,
-        "uriScheme": "minecraft:"
-    },
-    {
-        "name": "StarterSeeds",
-        "appStoreID": 6757363455,
-        "uriScheme": "starterseeds:"
-    },
-    {
-        "name": "PlayStation App",
-        "appStoreID": 6757363455,
-        "uriScheme": "scepsapp:"
-    },
-    {
-        "name": "Razer Nexus",
-        "appStoreID": 1565916457,
-        "uriScheme": "nexus:"
-    },
-    {
-        "name": "Alto's Adventure",
-        "appStoreID": 950812012,
-        "igdbID": 18130,
-        "uriScheme": "altosadventure:"
-    },
-    {
-        "name": "Alto's Odyssey",
-        "appStoreID": 1182456409,
-        "igdbID": 26428,
-        "uriScheme": "altosodyssey:"
-    },
-    {
-        "name": "Monument Valley",
-        "appStoreID": 728293409,
-        "igdbID": 8900,
-        "uriScheme": "monument-valley:"
-    }
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "Minecraft",
+    "appStoreID": 479516143,
+    "igdbID": 135400,
+    "uriScheme": "minecraft://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "StarterSeeds",
+    "appStoreID": 6757363455,
+    "uriScheme": "starterseeds://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "PlayStation App",
+    "appStoreID": 410896080,
+    "uriScheme": "scepsapp://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "Razer Nexus",
+    "appStoreID": 1565916457,
+    "uriScheme": "nexus://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "Alto's Adventure",
+    "appStoreID": 950812012,
+    "igdbID": 18130,
+    "uriScheme": "altosadventure://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "Alto's Odyssey",
+    "appStoreID": 1182456409,
+    "igdbID": 26428,
+    "uriScheme": "altosodyssey://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "Monument Valley",
+    "appStoreID": 728293409,
+    "igdbID": 8900,
+    "uriScheme": "monument-valley://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "Steam Mobile",
+    "appStoreID": 495369748,
+    "uriScheme": "steam://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "Steam Link",
+    "appStoreID": 1246969117,
+    "uriScheme": "steamlink://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "Xbox",
+    "appStoreID": 736179781,
+    "uriScheme": "xbox://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "Twitch",
+    "appStoreID": 460177396,
+    "uriScheme": "twitch://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "Discord",
+    "appStoreID": 985746746,
+    "uriScheme": "discord://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "ROBLOX",
+    "appStoreID": 431946152,
+    "igdbID": 17269,
+    "uriScheme": "roblox://"
+  },
+  {
+    "_comment": "added by Semmelstulle",
+    "name": "Among Us!",
+    "appStoreID": 1351168404,
+    "igdbID": 111469,
+    "uriScheme": "amongus://"
+  },
+  {
+    "_comment": "added by Claude Sonnet 4.5",
+    "name": "Brawl Stars",
+    "appStoreID": 1229016807,
+    "igdbID": 55945,
+    "uriScheme": "brawlstars://"
+  }
 ]
