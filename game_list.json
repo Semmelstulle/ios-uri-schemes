@@ -1,99 +1,170 @@
 [
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "Minecraft",
     "appStoreID": 479516143,
+    "bundleID": "com.mojang.minecraftpe",
     "igdbID": 135400,
     "uriScheme": "minecraft://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "StarterSeeds",
     "appStoreID": 6757363455,
+    "bundleID": "com.semmelstulle.StarterSeeds",
     "uriScheme": "starterseeds://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "PlayStation App",
     "appStoreID": 410896080,
+    "bundleID": "com.playstation.eu.playstationadhoc",
     "uriScheme": "scepsapp://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "Razer Nexus",
     "appStoreID": 1565916457,
+    "bundleID": "com.razer.kishiv2",
     "uriScheme": "nexus://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "Alto's Adventure",
     "appStoreID": 950812012,
+    "bundleID": "com.snowman.alto",
     "igdbID": 18130,
     "uriScheme": "altosadventure://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "Alto's Odyssey",
     "appStoreID": 1182456409,
+    "bundleID": "com.snowman.altos-odyssey",
     "igdbID": 26428,
     "uriScheme": "altosodyssey://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "Monument Valley",
     "appStoreID": 728293409,
+    "bundleID": "com.ustwo.monumentvalley",
     "igdbID": 8900,
     "uriScheme": "monument-valley://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "Steam Mobile",
     "appStoreID": 495369748,
+    "bundleID": "com.valvesoftware.Steam",
     "uriScheme": "steam://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "Steam Link",
     "appStoreID": 1246969117,
+    "bundleID": "com.valvesoftware.SteamLink17",
     "uriScheme": "steamlink://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "Xbox",
     "appStoreID": 736179781,
+    "bundleID": "com.microsoft.smartglass",
     "uriScheme": "xbox://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "Twitch",
     "appStoreID": 460177396,
+    "bundleID": "tv.twitch",
     "uriScheme": "twitch://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "Discord",
     "appStoreID": 985746746,
+    "bundleID": "com.hammerandchisel.discord",
     "uriScheme": "discord://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "ROBLOX",
     "appStoreID": 431946152,
+    "bundleID": "com.roblox.robloxmobile",
     "igdbID": 17269,
     "uriScheme": "roblox://"
   },
   {
-    "_comment": "added by Semmelstulle",
+    "_comment": "contributed by Semmelstulle",
     "name": "Among Us!",
     "appStoreID": 1351168404,
+    "bundleID": "com.innersloth.amongus",
     "igdbID": 111469,
     "uriScheme": "amongus://"
   },
   {
-    "_comment": "added by Claude Sonnet 4.5",
+    "_comment": "contributed by Claude Sonnet 4.5",
     "name": "Brawl Stars",
     "appStoreID": 1229016807,
+    "bundleID": "com.supercell.laser",
     "igdbID": 55945,
     "uriScheme": "brawlstars://"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "RetroArch",
+    "appStoreID": 6499539433,
+    "bundleID": "com.libretro.dist.RetroArch",
+    "uriScheme": "retroarch:///"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "Delta Emulator",
+    "appStoreID": 1048524688,
+    "bundleID": "com.rileytestut.Delta",
+    "uriScheme": "delta://"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "Manic EMU",
+    "appStoreID": 6743335790,
+    "bundleID": "com.aoshuang.manicemu",
+    "uriScheme": "manicemu://"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "Provenance App",
+    "appStoreID": 1596862805,
+    "bundleID": "org.provenance-emu.provenance",
+    "uriScheme": "provenance://"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "PPSSPP - PSP emulator",
+    "appStoreID": 6496972903,
+    "bundleID": "org.ppsspp.ppsspp-free",
+    "uriScheme": "ppsspp://"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "Razer PC Remote Play",
+    "appStoreID": 6502818047,
+    "bundleID": "com.razer.neuron",
+    "uriScheme": "neuron://"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "Sky: Children of the Light",
+    "appStoreID": 1462117269,
+    "bundleID": "com.tgc.sky.ios",
+    "uriScheme": "sky://"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "Disney Speedstorm",
+    "appStoreID": 6449708682,
+    "bundleID": "com.gameloft.disneyspeedstorm",
+    "uriScheme": "com.gameloft.disneyspeedstorm://"
   }
 ]
