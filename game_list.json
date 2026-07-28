@@ -166,5 +166,135 @@
     "appStoreID": 6449708682,
     "bundleID": "com.gameloft.disneyspeedstorm",
     "uriScheme": "com.gameloft.disneyspeedstorm://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: URI scheme documented by bhagyas/app-urls (https://github.com/bhagyas/app-urls); app metadata from Apple iTunes API; IGDB ID from IGDB.com",
+    "name": "Clash of Clans",
+    "appStoreID": 529479190,
+    "bundleID": "com.supercell.magic",
+    "igdbID": 5589,
+    "uriScheme": "clashofclans://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: URI scheme documented by pietropizzi/app-talk (https://github.com/pietropizzi/app-talk, MIT) and bhagyas/app-urls (https://github.com/bhagyas/app-urls); app metadata from Apple iTunes API; IGDB ID from IGDB.com",
+    "name": "Genshin Impact",
+    "appStoreID": 1517783697,
+    "bundleID": "com.miHoYo.GenshinImpact",
+    "igdbID": 119277,
+    "uriScheme": "yuanshengame://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources; IGDB ID from IGDB.com",
+    "name": "Pokémon GO",
+    "appStoreID": 1094591345,
+    "bundleID": "com.nianticlabs.pokemongo",
+    "igdbID": 12515,
+    "uriScheme": "pokemongo://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Hearthstone",
+    "appStoreID": 625257520,
+    "bundleID": "com.blizzard.wtcg.hearthstone",
+    "uriScheme": "hearthstone://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources; IGDB ID from IGDB.com",
+    "name": "Clash Royale",
+    "appStoreID": 1053012308,
+    "bundleID": "com.supercell.scroll",
+    "igdbID": 15707,
+    "uriScheme": "clashroyale://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "PUBG Mobile",
+    "appStoreID": 1330123889,
+    "bundleID": "com.tencent.ig",
+    "uriScheme": "pubgmobile://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Call of Duty: Mobile",
+    "appStoreID": 1287282214,
+    "bundleID": "com.activision.callofduty.shooter",
+    "uriScheme": "codmobile://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Mario Kart Tour",
+    "appStoreID": 1293634699,
+    "bundleID": "com.nintendo.zaka",
+    "uriScheme": "mariokarttour://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Super Mario Run",
+    "appStoreID": 1145275343,
+    "bundleID": "com.nintendo.zara",
+    "uriScheme": "supermariorun://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Subway Surfers",
+    "appStoreID": 512939461,
+    "bundleID": "com.kiloo.subwaysurfers",
+    "uriScheme": "subwaysurfers://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Temple Run",
+    "appStoreID": 420009108,
+    "bundleID": "com.imangi.templerun",
+    "uriScheme": "templerun://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Angry Birds 2",
+    "appStoreID": 880047117,
+    "bundleID": "com.rovio.baba",
+    "uriScheme": "angrybirds2://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Asphalt 9: Legends",
+    "appStoreID": 805603214,
+    "bundleID": "com.gameloft.asphalt9",
+    "uriScheme": "asphalt9://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Candy Crush Saga",
+    "appStoreID": 553834731,
+    "bundleID": "com.midasplayer.apps.candycrushsaga",
+    "uriScheme": "candycrushsaga://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Need for Speed: No Limits",
+    "appStoreID": 883393043,
+    "bundleID": "com.ea.nfs2014.bv",
+    "uriScheme": "nfsnolimits://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Nintendo Switch Online",
+    "appStoreID": 1234806557,
+    "bundleID": "com.nintendo.znca",
+    "uriScheme": "nintendoswitchonline://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "PS Remote Play",
+    "appStoreID": 1436192460,
+    "bundleID": "com.playstation.psremoteplay",
+    "uriScheme": "psremoteplay://"
+  },
+  {
+    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources",
+    "name": "Battle.net",
+    "appStoreID": 1241040030,
+    "bundleID": "com.blizzard.social",
+    "uriScheme": "battlenet://"
   }
 ]
