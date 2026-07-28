@@ -16,7 +16,7 @@ Each entry in `game_list.json` is an object with the following fields.
 
 | Field | Type | Required | Description |
 | --- | --- | --- | --- |
-| `_comment` | string | **Yes** | Contributor attribution, e.g. `contributed by Your Name or Name of LLM`. |
+| `_comment` | string | **Yes** | Contributor attribution. Use the actual contributor name. For LLM contributions, use the model name (e.g., `Kimi K2.7 Code`), not the harness/interface name. If the data is derived from third-party sources, include the source and license: `contributed by <Name> with attribution as follows: <source> (<URL>, <license>)`. |
 | `name` | string | Yes | The international name of the app or game. Preferred be cleaned up to remove SEO strings (eg. "StarterSeeds" instead of "StarterSeeds - Game Launcher") |
 | `appStoreID` | integer | Yes | The numeric App Store ID of the app. |
 | `bundleID` | string | Yes | The iOS bundle identifier, e.g. `com.example.app`. |
@@ -38,7 +38,7 @@ To keep diffs clean and reviews simple, every object must use the following exac
 
 ```json
 {
-  "_comment": "contributed by Contributor",
+  "_comment": "contributed by Your Name",
   "name": "Example Game",
   "appStoreID": 123456789,
   "bundleID": "com.example.game",
@@ -59,6 +59,18 @@ If `igdbID` is not available, the entry should look like this:
 }
 ```
 
+When a contribution is made by an LLM or adapts data from third-party sources, include the source attribution in `_comment`:
+
+```json
+{
+  "_comment": "contributed by Kimi K2.7 Code with attribution as follows: URI scheme documented by pietropizzi/app-talk (https://github.com/pietropizzi/app-talk, MIT); app metadata from Apple iTunes API",
+  "name": "Example Game",
+  "appStoreID": 123456789,
+  "bundleID": "com.example.game",
+  "uriScheme": "examplegame://"
+}
+```
+
 ## Formatting rules
 
 - The root of `game_list.json` is a JSON array (`[]`).
@@ -76,6 +88,13 @@ Currently none in place. Add to the bottom or group related ones together if you
 - **Bundle ID**: You can extract it from the App Store page source, from tools like [Apple's Enterprise docs](https://developer.apple.com/library/archive/qa/qa1633/_index.html), or by inspecting a purchased app's metadata.
 - **URI scheme**: Test it on a real iOS device by entering it in Safari, a shortcut, or the Notes app and tapping the link. Only submit schemes you have confirmed to work.
 - **IGDB ID**: Search for the game on [IGDB](https://www.igdb.com) and copy the numeric ID from the URL.
+
+## Attribution
+
+- **Human contributors:** use your name or handle in `_comment` (e.g., `contributed by Your Name`).
+- **LLM contributors:** use the actual model name, not the harness or interface name. For example, use `Kimi K2.7 Code`, not `OpenCode`.
+- **Third-party data:** if you source a URI scheme or other data from another repository or database, include the source name, URL, and license in `_comment` so downstream users can comply with the original license. For example: `contributed by Kimi K2.7 Code with attribution as follows: URI scheme documented by pietropizzi/app-talk (https://github.com/pietropizzi/app-talk, MIT); app metadata from Apple iTunes API`.
+- App Store metadata (`appStoreID`, `bundleID`) is factual data sourced from the Apple iTunes API. IGDB IDs are factual data sourced from IGDB.com.
 
 ## License
 
