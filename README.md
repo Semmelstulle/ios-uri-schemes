@@ -51,7 +51,7 @@ If `igdbID` is not available, the entry should look like this:
 
 ```json
 {
-  "_comment": "contributed by Your Name",
+  "_comment": "contributed by Contributor",
   "name": "Example App",
   "appStoreID": 987654321,
   "bundleID": "com.example.app",
