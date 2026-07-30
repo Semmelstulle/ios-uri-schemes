@@ -316,7 +316,8 @@
     "name": "Rayman Adventures",
     "appStoreID": 1043589663,
     "bundleID": "com.ubisoft.raymanadventures",
-    "uriScheme": "fb582562951848891://"
+    "uriScheme": "fb582562951848891://",
+    "uriSchemeAlt1": "wb360955311://"
   },
   {
     "_comment": "contributed by u/atonaldenim",
@@ -341,5 +342,14 @@
     "name": "Sonic 2 Classic",
     "appStoreID": 347415188,
     "bundleID": "com.sega.sonic2international"
+  },
+  {
+    "_comment": "contributed by Semmelstulle",
+    "name": "SUMEE!",
+    "appStoreID": 6755858938,
+    "bundleID": "GetzemaniCruz.sumee",
+    "uriScheme": "sumee://",
+    "uriSchemeAlt1": "sumeemelonx://",
+    "uriSchemeAlt2": "discord-1470651631296057386://"
   }
 ]
