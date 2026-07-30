@@ -296,5 +296,38 @@
     "appStoreID": 1241040030,
     "bundleID": "com.blizzard.social",
     "uriScheme": "battlenet://"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "Rovio Classics: Angry Birds",
+    "appStoreID": 1596736236,
+    "bundleID": "com.rovio.abclassic22",
+    "uriScheme": "com.rovio.abclassic22://"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "Crazy Taxi Classic",
+    "appStoreID": 553921725,
+    "bundleID": "com.sega.crazytaxi",
+    "uriScheme": "fb199045996862074sgcrazytaxi://"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "Rayman Adventures",
+    "appStoreID": 1043589663,
+    "bundleID": "com.ubisoft.raymanadventures",
+    "uriScheme": "fb582562951848891://"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "Wheels of Aurelia",
+    "appStoreID": 1198170026,
+    "bundleID": "com.santaragione.woaiOS"
+  },
+  {
+    "_comment": "contributed by u/atonaldenim",
+    "name": "Super Monkey Ball 2",
+    "appStoreID": 340070486,
+    "bundleID": "com.sega.smb2"
   }
 ]
