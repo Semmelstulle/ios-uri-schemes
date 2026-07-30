@@ -329,5 +329,17 @@
     "name": "Super Monkey Ball 2",
     "appStoreID": 340070486,
     "bundleID": "com.sega.smb2"
+  },
+  {
+    "_comment": "contributed by Semmelstulle",
+    "name": "Sonic 1 Classic",
+    "appStoreID": 316050001,
+    "bundleID": "com.sega.sonic1international"
+  },
+  {
+    "_comment": "contributed by Semmelstulle",
+    "name": "Sonic 2 Classic",
+    "appStoreID": 347415188,
+    "bundleID": "com.sega.sonic2international"
   }
 ]
