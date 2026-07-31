@@ -324,7 +324,7 @@
   {
     "_comment": "contributed by u/atonaldenim",
     "name": "Wheels of Aurelia",
-    "iconURL" "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c8/4f/00/c84f006d-33d0-272f-a254-4b63abfc37aa/AppIcon-1x_U007emarketing-85-220-0-9.png/1024x1024bb.png",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c8/4f/00/c84f006d-33d0-272f-a254-4b63abfc37aa/AppIcon-1x_U007emarketing-85-220-0-9.png/1024x1024bb.png",
     "appStoreID": 1198170026,
     "bundleID": "com.santaragione.woaiOS"
   },
