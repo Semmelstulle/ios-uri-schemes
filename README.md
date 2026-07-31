@@ -16,12 +16,13 @@ Each entry in `game_list.json` is an object with the following fields.
 
 | Field | Type | Required | Description |
 | --- | --- | --- | --- |
-| `_comment` | string | **Yes** | Contributor attribution. Use the actual contributor name. For LLM contributions, use the model name (e.g., `Kimi K2.7 Code`), not the harness/interface name. If the data is derived from third-party sources, include the source and license: `contributed by <Name> with attribution as follows: <source> (<URL>, <license>)`. |
+| `_comment` | string | **Yes** | Contributor attribution. Use the actual contributor name. For LLM contributions, use the model name (e.g., `Kimi K2.7 Code`), not the harness/interface name. If the data is derived from third-party sources which require attribution or a license, append it to the end: `contributed by <Name> with attribution as follows: <source> (<URL>, <license>)`. |
 | `name` | string | Yes | The international name of the app or game. Preferred be cleaned up to remove SEO strings (eg. "StarterSeeds" instead of "StarterSeeds - Game Launcher") |
+| `iconURL` | string | No | URL to the highest resolution, most recent artwork available (App Store maximum is 1024x1024) |
 | `appStoreID` | integer | Yes | The numeric App Store ID of the app. |
 | `bundleID` | string | Yes | The iOS bundle identifier, e.g. `com.example.app`. |
 | `igdbID` | integer | No | The IGDB game ID, if one exists. |
-| `uriScheme` | string | Yes | The URI scheme used to launch the app, e.g. `exampleapp://`. |
+| `uriScheme` | string | No | The URI scheme used to launch the app, e.g. `exampleapp://`. Append an increasing counter with AltN for multiple alternative URI schemes. While only the first one might get used, it is great to archive everything available. |
 
 ## Required key order
 
@@ -29,10 +30,13 @@ To keep diffs clean and reviews simple, every object must use the following exac
 
 1. `_comment`
 2. `name`
-3. `appStoreID`
-4. `bundleID`
-5. `igdbID` (omit if not available)
-6. `uriScheme`
+3. `iconURL`
+4. `appStoreID`
+5. `bundleID`
+6. `igdbID` (omit if not available)
+7. `uriScheme`
+8. `uriSchemeAlt1`
+N. `uriSchemeAltN`
 
 ### Example entry
 
