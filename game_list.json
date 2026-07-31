@@ -307,6 +307,7 @@
   {
     "_comment": "contributed by u/atonaldenim",
     "name": "Crazy Taxi Classic",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/c9/7b/fbc97b34-d62e-5992-06df-e411abce56ca/AppIcon-0-0-1x_U007emarketing-0-9-0-85-220.png/1024x1024bb.png",
     "appStoreID": 553921725,
     "bundleID": "com.sega.crazytaxi",
     "uriScheme": "fb199045996862074sgcrazytaxi://"
@@ -314,6 +315,7 @@
   {
     "_comment": "contributed by u/atonaldenim",
     "name": "Rayman Adventures",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/57/c5/f3/57c5f35d-d824-c2d6-465c-f3faaa874ef5/AppIcon-1x_U007emarketing-0-5-0-85-220.png/1024x1024bb.png",
     "appStoreID": 1043589663,
     "bundleID": "com.ubisoft.raymanadventures",
     "uriScheme": "fb582562951848891://",
@@ -322,12 +324,14 @@
   {
     "_comment": "contributed by u/atonaldenim",
     "name": "Wheels of Aurelia",
+    "iconURL" "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c8/4f/00/c84f006d-33d0-272f-a254-4b63abfc37aa/AppIcon-1x_U007emarketing-85-220-0-9.png/1024x1024bb.png",
     "appStoreID": 1198170026,
     "bundleID": "com.santaragione.woaiOS"
   },
   {
     "_comment": "contributed by u/atonaldenim",
     "name": "Super Monkey Ball 2",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/95/38/bf9538bc-8049-2388-004a-4b522f61a867/AppIcon-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024bb.png",
     "appStoreID": 340070486,
     "bundleID": "com.sega.smb2"
   },
