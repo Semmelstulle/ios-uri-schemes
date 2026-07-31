@@ -338,22 +338,40 @@
   {
     "_comment": "contributed by Semmelstulle",
     "name": "Sonic 1 Classic",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/44/fb/2e44fbe7-0309-9102-1094-8179398ed682/AppIcon1-1-0-0-1x_U007emarketing-0-8-0-85-220.png/1024x1024bb-70.jpeg",
     "appStoreID": 316050001,
     "bundleID": "com.sega.sonic1international"
   },
   {
     "_comment": "contributed by Semmelstulle",
     "name": "Sonic 2 Classic",
+    "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/b3/0f/61b30f95-46df-07f8-f479-ebfbbd97c055/AppIcon2-1-0-0-1x_U007emarketing-0-8-0-85-220.png/1024x1024bb-70.jpeg",
     "appStoreID": 347415188,
     "bundleID": "com.sega.sonic2international"
   },
   {
     "_comment": "contributed by Semmelstulle",
     "name": "SUMEE!",
+    "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/67/d0/5067d044-50c9-35be-e187-aab2cbeb2409/Placeholder.mill/1024x1024bb-75.webp",
     "appStoreID": 6755858938,
     "bundleID": "GetzemaniCruz.sumee",
     "uriScheme": "sumee://",
     "uriSchemeAlt1": "sumeemelonx://",
     "uriSchemeAlt2": "discord-1470651631296057386://"
+  },
+  {
+    "_comment": "contributed by Semmelstulle",
+    "name": "Slaps And Beans",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/5d/52/76/5d527634-f8f4-3c85-caea-c1aab1f6293e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+    "appStoreID": 1482126043,
+    "bundleID": "com.trinityteamgames.slapsandbeans"
+  },
+  {
+    "_comment": "contributed by Semmelstulle",
+    "name": "Coromon",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/88/db/eb/88dbeb1f-6377-8c6b-4826-0d624fe0b776/AppIcon-0-0-1x_U007emarketing-0-8-85-220.png/512x512bb.png",
+    "appStoreID": 6451449431,
+    "bundleID": "gg.freedom.coromon",
+    "uriScheme": "com.googleusercontent.apps.910476453638-38qevnd18aalkk5bklpgjhdllchf11mv://"
   }
 ]
