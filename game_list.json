@@ -438,5 +438,20 @@
     "bundleID": "com.ohsnap.mcon-utilities",
     "uriScheme": "mcon://",
     "uriSchemeAlt1": "ShareMedia-com.ohsnap.mcon-utilities://"
+  },
+  {
+    "_comment": "contributed by Semmelstulle",
+    "name": "LUMINES REMASTERED",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/86/3d/a7863d42-4fb7-e41b-87c6-333cc86f1429/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1024x1024bb.png",
+    "appStoreID": 6758456739,
+    "bundleID": "games.sound.enhance.lumines",
+    "uriScheme": "lumines://"
+  },
+  {
+    "_comment": "contributed by Semmelstulle",
+    "name": "GHOST TRICK",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/75/91/c8759100-5350-95d6-4425-87ee498b1763/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png",
+    "appStoreID": 6473715300,
+    "bundleID": "jp.co.capcom.ghosttrick"
   }
 ]
