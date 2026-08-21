@@ -453,5 +453,15 @@
     "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/75/91/c8759100-5350-95d6-4425-87ee498b1763/AppIcon-1x_U007emarketing-0-7-0-85-220.png/1024x1024bb.png",
     "appStoreID": 6473715300,
     "bundleID": "jp.co.capcom.ghosttrick"
+  },
+  {
+    "_comment": "contributed by Semmelstulle",
+    "name": "Mini Metro",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/ed/56/7aed5613-8242-de14-d125-fffdaebe8c7c/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/1024x1024bb.png",
+    "appStoreID": 837860959,
+    "bundleID": "nz.co.codepoint.minimetro",
+    "uriScheme": "minimetro://",
+    "uriScheme": "com.dinopoloclub.minimetro://",
+    "uriScheme": "com.dinopoloclub.minimetro.arcade://"
   }
 ]
