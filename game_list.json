@@ -182,8 +182,7 @@
     "name": "Genshin Impact",
     "appStoreID": 1517783697,
     "bundleID": "com.miHoYo.GenshinImpact",
-    "igdbID": 119277,
-    "uriScheme": "yuanshengame://"
+    "igdbID": 119277
   },
   {
     "_comment": "contributed by Kimi K2.7 Code with attribution as follows: app metadata from Apple iTunes API; URI scheme from common iOS URL scheme documentation and community sources; IGDB ID from IGDB.com",
