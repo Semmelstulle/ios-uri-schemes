@@ -178,7 +178,7 @@
     "uriScheme": "clashofclans://"
   },
   {
-    "_comment": "contributed by Kimi K2.7 Code with attribution as follows: URI scheme documented by pietropizzi/app-talk (https://github.com/pietropizzi/app-talk, MIT) and bhagyas/app-urls (https://github.com/bhagyas/app-urls); app metadata from Apple iTunes API; IGDB ID from IGDB.com",
+    "_comment": "contributed by Semmelstulle",
     "name": "Genshin Impact",
     "appStoreID": 1517783697,
     "bundleID": "com.miHoYo.GenshinImpact",
