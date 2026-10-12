@@ -466,5 +466,13 @@
     "uriScheme": "minimetro://",
     "uriScheme": "com.dinopoloclub.minimetro://",
     "uriScheme": "com.dinopoloclub.minimetro.arcade://"
+  },
+  {
+    "_comment": "contributed by Semmelstulle",
+    "name": "",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/1e/cd/ff1ecd0f-f57f-4b90-5962-0d1173c7946a/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/1024x1024bb.png",
+    "appStoreID": 6477413486,
+    "bundleID": "com.unept.leveldevil",
+    "uriScheme": "com.unept.leveldevil://"
   }
 ]
